@@ -35,7 +35,7 @@ Graduated in Computer Engineering, currently completing a Master’s in AI and R
   - Python, C++, C, Java, MySQL, Assembly
   - UNIX (Ubuntu), Windows
   - ROS, Opencv, NLTK, SpaCy, fairseq, pytorch
-  - Jenkins, Jira, Splunk, Docker, Git, Firebase, Swagger, CMake, Make, REST api
+  - Jenkins, Jira, Splunk, Docker, Git, Firebase, Swagger, CMake, Make, REST api, Spring
     
 ## 🌎 Languages I speak:
   - Italian (Native), Spanish (C1), English (C1), Russian (B2)
