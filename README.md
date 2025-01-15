@@ -43,5 +43,6 @@ Graduated in Computer Engineering, currently completing a Master’s in AI and R
 ## How to reach me
 - 📫📧 [Email](nicolacalzone14@gmail.com)
 - 👨‍💼🤝 [LinkedIn](https://www.linkedin.com/in/nicolacalzone/).
+- 🌐🔗 [My Webpage](https://nicola-calzone-hcvysw3.gamma.site/)
 
 
