@@ -29,7 +29,6 @@ Graduated in Computer Engineering, currently completing a Master’s in AI and R
 ## Work Experience
 - 💼 Backend Software Developer at Unicredit
 - 🖥️ IT Technician
-- 🛠 Warehouseman
 - 💫 Volunteering
 
 ## Programming Languages, OS & Tools:
