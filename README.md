@@ -20,8 +20,8 @@ Graduated in Computer Engineering, currently completing a Master’s in AI and R
 - 🔭 I’m currently working on my Master's Thesis where I am investigating the generative power of transformers.
 
 ## Academic Background
-- 🎓 Master's Degree at Università degli Studi di Padova; Padova, Italy (2022 - Present)
-  - GPA: 27/30 (3.7/4)
+- 🎓 Master's Degree at Università degli Studi di Padova; Padova, Italy (Ongoing)
+  - GPA: 28/30 (3.7/4)
 - 📚 Erasmus at Univerzita Karlova; Prague, Czech Republic
 - 📚 Erasmus at Universidad de Granada; Granada, Spain
 - 🎓 Bachelor's Degree at Università degli Studi del Sannio; Benevento, Italy 
@@ -33,9 +33,9 @@ Graduated in Computer Engineering, currently completing a Master’s in AI and R
 
 ## Programming Languages, OS & Tools:
   - Python, C++, C, Java, MySQL, Assembly
-  - UNIX (Ubuntu), Windows
-  - ROS, Opencv, NLTK, SpaCy, fairseq, pytorch
-  - Jenkins, Jira, Splunk, Docker, Git, Firebase, Swagger, CMake, Make, REST api, Spring
+  - UNIX (Ubuntu), Windows, MacOS, Android, iOS
+  - ROS, OpenCV, NLTK, SpaCy, fairseq, pytorch, numpy
+  - Jenkins, Jira, Splunk, Docker, Git, Firebase, Swagger, CMake, Spring
     
 ## 🌎 Languages I speak:
   - Italian (Native), Spanish (C1), English (C1), Russian (B2)
