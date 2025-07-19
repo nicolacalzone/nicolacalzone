@@ -21,7 +21,7 @@ Graduated in Computer Engineering, currently completing a Master’s in AI and R
 
 ## Academic Background
 - 🎓 Master's Degree at Università degli Studi di Padova; Padova, Italy (Ongoing)
-  - GPA: 28/30 (3.7/4)
+  - GPA: 28/30 (3.8/4)
 - 📚 Erasmus at Univerzita Karlova; Prague, Czech Republic
 - 📚 Erasmus at Universidad de Granada; Granada, Spain
 - 🎓 Bachelor's Degree at Università degli Studi del Sannio; Benevento, Italy 
