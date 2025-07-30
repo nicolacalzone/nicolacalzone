@@ -35,7 +35,7 @@ Graduated in Computer Engineering, currently completing a Master’s in AI and R
   - ROS, OpenCV, NLTK, SpaCy, fairseq, pytorch, numpy
   - Jenkins, Jira, Splunk, Docker, Git, Firebase, Swagger, CMake, Spring
 
-## Main Skills & Knowledge focuses on: 
+## Main Skills: 
   - Natural Language Processing: Machine Translation, Text Classification, Text Ranking, Sentiment Analysis, Embedding Databases
   - Deep Learning: mostly Transformers and RNNs - but also Variational Autoencoders (VAE), Generative Adversarial Networks (GANs/DCGANs) and Flow Matching
   - Data Processing
