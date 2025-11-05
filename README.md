@@ -19,7 +19,6 @@ Graduated in Computer Engineering, currently completing a Master’s in AI and R
 
 ## Academic Background
 - 🎓 Master's Degree at Università degli Studi di Padova; Padova, Italy - End: 2025
-  - GPA: 3.8/4
 - 📚 Master Thesis at Univerzita Karlova; Prague, Czech Republic
 - 📚 Erasmus+ at Universidad de Granada; Granada, Spain
 - 🎓 Bachelor's Degree at Università degli Studi del Sannio; Benevento, Italy
